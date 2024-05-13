@@ -1,0 +1,8 @@
+
+e	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÝâ
+[
+java:S1128"@Remove this unused import 'androidx.databinding.BindingAdapter'.(Ù¼íƒùÿÿÿÿ
+h
+java:S1128"RRemove this unused import 'com.google.android.material.textfield.TextInputLayout'.(¾¸‰ˆ
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÀÙ‘ìûÿÿÿÿ

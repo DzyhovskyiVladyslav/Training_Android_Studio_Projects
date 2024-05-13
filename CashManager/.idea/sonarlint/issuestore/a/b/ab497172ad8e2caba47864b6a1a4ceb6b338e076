@@ -1,0 +1,17 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŸÈ¿ôúÿÿÿÿ
+†
+java:S1319*"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(å»¾Ä
+ˆ
+java:S1319*"rThe type of the "records" object should be an interface such as "List" rather than the implementation "ArrayList".(å»¾Ä
+]
+java:S1192B"GDefine a constant instead of duplicating this literal "Global" 8 times.(¤ÜàÃ
+_
+java:S1192^"IDefine a constant instead of duplicating this literal "Password" 4 times.(Ú´Ò²
+U
+java:S6213$":Rename this variable to not match a restricted identifier.(•­âşÿÿÿÿ
+U
+java:S6213E":Rename this variable to not match a restricted identifier.(ô–ûÁüÿÿÿÿ
+A
+java:S1068"+Remove this unused "records" private field.(ş‹ÚÁ

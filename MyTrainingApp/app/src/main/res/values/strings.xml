@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTrainingApp</string>
+    <string name="value_is_invalid">Value is invalid</string>
+    <string name="problems_with_connection">Problems with connection</string>
+    <string name="transactions_not_found">Transactions not found</string>
+    <string name="field_is_empty">Field is empty</string>
+    <string name="find_transaction">Find Transactions</string>
+</resources>

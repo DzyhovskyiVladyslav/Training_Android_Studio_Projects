@@ -1,0 +1,19 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(²Ò€Œ8Ë°¹•¨0
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(®Š«8Ë°¹•¨0
+Š
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "encryptedValue64".(·â¨šûÿÿÿÿ8Í°¹•¨0
+ƒ
+java:S1488 "fImmediately return this expression instead of assigning it to the temporary variable "decryptedValue".(œù¥8Í°¹•¨0
+}
+java:S1488%"[Immediately return this expression instead of assigning it to the temporary variable "key".(•ÏáÇüÿÿÿÿ8Î°¹•¨0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ã¹¢úÿÿÿÿ8Ï°¹•¨0
+@
+java:S5542"#Use secure mode and padding scheme.(É©ü8Ö°¹•¨0
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(‚ø“¡ÿÿÿÿÿ8Ø°¹•¨0
+@
+java:S5542"#Use secure mode and padding scheme.(É©ü8Ú°¹•¨0
+V
+java:S4719 "9Replace charset name argument with StandardCharsets.UTF_8(œù¥8Ú°¹•¨0

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginForm">
+
+    <fragment
+        android:id="@+id/loginForm"
+        android:name="com.example.mytrainingapp.LoginForm"
+        android:label="LoginForm" />
+    <fragment
+        android:id="@+id/transactionListForm"
+        android:name="com.example.mytrainingapp.TransactionListForm"
+        android:label="TransactionListForm" />
+    <fragment
+        android:id="@+id/transactionInfoForm"
+        android:name="com.example.mytrainingapp.TransactionInfoForm"
+        android:label="TransactionInfoForm" />
+</navigation>
